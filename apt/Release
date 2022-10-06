@@ -1,0 +1,27 @@
+Date: Thu, 06 Oct 2022 11:02:47 +0000
+Origin: Twilio @twilio
+Suite: stable
+MD5Sum:
+ 6b7a1aa38d11101b3645c88c61436854             1160 Packages
+ d43d9f869e7c2a12340b438e3959c6c4              691 Packages.bz2
+ 4ca90109c6aaedbbb4a2ede94563f4b5              626 Packages.gz
+ ef9e86cb83bb4b9aa6b0812833c4b355              680 Packages.xz
+ e5b27fa0f1a8a01ee416f5a669f23379               75 Release
+SHA1:
+ dc96f73e1d0925dffbb8781c8fe80936a30020bd             1160 Packages
+ 3498bce51e99dc6bad60b3d2c5d0307870390265              691 Packages.bz2
+ d2ba755f28b0ef582b1d1794ab1d1e3a174ac1cd              626 Packages.gz
+ 1810bbb514ef56482dfeef6e2ede6945d3effec3              680 Packages.xz
+ 1b1452c49d0581654d172b6185ca40793ef05f5c               75 Release
+SHA256:
+ 2e088b4a49a2357c7b0971d3015b6044453f8005431b87e9183d9c9158749859             1160 Packages
+ 4281407552d03eb5b8ea30b6259a31f3314536215ca15d548804e8a6e5242bc9              691 Packages.bz2
+ 9e5c1342f1e146ea6949128a63835ca912c88ab1c359abf58b198dd82eeec405              626 Packages.gz
+ 3e6e73c5c66a0f1e4763580eb11a4da7fd43e52bf2a6e891387bb88d19211e81              680 Packages.xz
+ f53d3a5228f692fad356eee386d4f223ce05ec53a2bd5da5e4db8a8a0a63c07e               75 Release
+SHA512:
+ cecc3f0373d0fb680f7f7f496e40f8c930558aa66d508e85459a08792fe63737cf60a8add9d747342622cbece8e9e056e3b0f9c27070639c15c0f9c4d09d5501             1160 Packages
+ 1f48f88694d8f2cbf3f965aa4e080898e5ba43b9fe963270552b72597ede7abb43e9aaf95ae5a0adc7160242e66ec8a6cd8bef5045215207b41e964e93576c71              691 Packages.bz2
+ bbce559659309285b1b6f8c479e8c4ba45c8520aaabf30751c502745c2655e652fab3f98b27bf17efe09a36a0f94e904cecc51d20b51ef6b91c0883fef19e27b              626 Packages.gz
+ 2763a2ba90c40ce898a0f476fb55324d8c1b371e4376d598b5c7597bd527bf5ec83c27d73d6322fb8caf7fc4755afbec88a89d080075b0079a4cef6b7eca641a              680 Packages.xz
+ a04dbf6df0c2cab7cbd3962f301e7bfd0271ab8d271dd868abba73eed1954c80877a3bd9ff79a726b357b79bd3e7fcb59363e26119db72392c5b7882595bd6d6               75 Release

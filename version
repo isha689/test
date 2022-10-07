@@ -4,8 +4,8 @@
   "channel": "stable",
   "gz": "https://isha689.github.io/test/twilio-v5.0.5/twilio-v5.0.5.tar.gz",
   "xz": "https://isha689.github.io/test/twilio-v5.0.5/twilio-v5.0.5.tar.xz",
-  "sha256gz": "ed8be4eb0b27d2230969c41becf1a606484b6c7f8a8e0af5047b7011307f30c4",
-  "sha256xz": "c84e89f4be050d68ea5fb6fe2d8dc8a7df6f13766ee50fe2b1289d9b51bec9f8",
+  "sha256gz": "fe6354f5a5b2e70facb26d452059204e0d2b6097e625490fbdb5de7b17e3f2b4",
+  "sha256xz": "9a3ad0fd7d6390cffa48cd030c68c4398aa9686633f3e5065a37d4ab6a04cc46",
   "rollout": false,
   "node": {
     "compatible": ">=14.0.0",

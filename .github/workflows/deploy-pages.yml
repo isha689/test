@@ -22,4 +22,6 @@ jobs:
         with:
           git-config-name: isha689
           git-config-email: ishabansal2467@gmail.com
-          folder: twilio-v${{github.event.inputs.version}}
+          branch: main
+          clean: false
+          folder: ./twilio-v${{github.event.inputs.version}}

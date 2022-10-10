@@ -1,5 +1,5 @@
 {
-  "version": "5.0.1-draft.1.d5f9789",
+  "version": "5.0.1-draft.1",
   "channel": "draft",
   "baseDir": "twilio",
   "gz": "https://isha689.github.io/test/channels/draft/twilio-v5.0.1-draft.1/twilio-v5.0.1-draft.1-win32-x64.tar.gz",

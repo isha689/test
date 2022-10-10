@@ -1,11 +1,11 @@
 {
-  "version": "5.0.5",
+  "version": "5.0.6",
   "channel": "stable",
   "baseDir": "twilio",
-  "gz": "https://isha689.github.io/test/twilio-v5.0.5/twilio-v5.0.5-linux-x64.tar.gz",
-  "xz": "https://isha689.github.io/test/twilio-v5.0.5/twilio-v5.0.5-linux-x64.tar.xz",
-  "sha256gz": "6d530e75c48d6ff6c5f30a64892bc119b35287618e1e4905050a08429dbe139b",
-  "sha256xz": "d429cfc2db4f674346bf1ff4d668af80e24c0a0e11b189e51f63b2414c6a037f",
+  "gz": "https://isha689.github.io/test/twilio-v5.0.6/twilio-v5.0.6-linux-x64.tar.gz",
+  "xz": "https://isha689.github.io/test/twilio-v5.0.6/twilio-v5.0.6-linux-x64.tar.xz",
+  "sha256gz": "b84b47d132771ff3eaeac7dc7a8ae4db792ce820cb27ca68ff9b7038608bd807",
+  "sha256xz": "eaaba807b835abfa4e59c68e92a180d5cd226a0249baca3f8375984687265dda",
   "node": {
     "compatible": ">=14.0.0",
     "recommended": "16.17.1"

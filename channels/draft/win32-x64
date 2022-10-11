@@ -1,11 +1,11 @@
 {
-  "version": "5.1.1-draft.1.9e4d575",
+  "version": "5.1.2-draft.1.f4ce516",
   "channel": "draft",
   "baseDir": "twilio",
-  "gz": "https://isha689.github.io/test/channels/draft/twilio-v5.1.1-draft.1/twilio-v5.1.1-draft.1-win32-x64.tar.gz",
-  "xz": "https://isha689.github.io/test/channels/draft/twilio-v5.1.1-draft.1/twilio-v5.1.1-draft.1-win32-x64.tar.xz",
-  "sha256gz": "8713f57b95dc7359c2c7f62ab92a073ce6c8cc4764d471378ebf446046089db4",
-  "sha256xz": "cf7d17f06b9fa719ea90fe2a4a18f06594362ef3a05aa323f84835831c170f72",
+  "gz": "https://isha689.github.io/test/channels/draft/twilio-v5.1.2-draft.1/twilio-v5.1.2-draft.1-win32-x64.tar.gz",
+  "xz": "https://isha689.github.io/test/channels/draft/twilio-v5.1.2-draft.1/twilio-v5.1.2-draft.1-win32-x64.tar.xz",
+  "sha256gz": "8f943511584c886b7074add87382a4fa137033620662476ad6ac21fd7b6d5b1a",
+  "sha256xz": "4bbe5fc98a8a072003f52311480490f5050b1a16ba9f86113d057d63b96af915",
   "node": {
     "compatible": ">=14.0.0",
     "recommended": "16.17.1"
